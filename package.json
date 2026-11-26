@@ -1,0 +1,14 @@
+{
+  "name": "matchday-scoreboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Football scoreboard overlay for OBS, with a live control app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
